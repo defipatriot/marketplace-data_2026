@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "version": "1.0",
+    "year": 2025,
+    "generated_at": "2026-05-15T01:09:51.864Z",
+    "description": "aDAO NFT sales for 2025 (BBL + Boost)"
+  },
+  "sales": {
+    "bbl": [
+      {
+        "marketplace": "bbl",
+        "nft_id": "615",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 96,
+        "token": "bLUNA",
+        "timestamp": "2025-12-25T08:52:14.009+00:00",
+        "tx_hash": "ED05A1D2BA669022FAD4BBDBBE2AF342924B3E9A270047B9635143E16DC957F0",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra1fjd6thl0dqh6e5wv9z7rdrqzmtp0xau7fdejpq"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "1692",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 299,
+        "token": "bLUNA",
+        "timestamp": "2025-12-25T08:11:39.342+00:00",
+        "tx_hash": "1E66D8C6A80E6DBEB96C36C78ACA67C589E3268A36C4021F019C2BA33E2814C8",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra1fjd6thl0dqh6e5wv9z7rdrqzmtp0xau7fdejpq"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "4421",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 199,
+        "token": "bLUNA",
+        "timestamp": "2025-12-25T08:09:42.378+00:00",
+        "tx_hash": "54D541BE2AEA1CAD64D263A3367EC34675D71640C2281D875FD2B31AA9B3C67C",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra1hufqtn9hh9ckasktyvfqzjmevzg0q972svdema"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "5681",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 1000,
+        "token": "bLUNA",
+        "timestamp": "2025-12-12T20:39:38.29+00:00",
+        "tx_hash": "A67274EC520625EEFCF336CCEB2218FC6134F2F695C9BC3A57B8036F3208A0CA",
+        "buyer": "terra1kyz0efvxy2fx7alvzrt679uuemau62y2te5wuz",
+        "seller": "terra1my2fdaqu523g2vfv72p43wkaaa8lqf0ks2xt53"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "3290",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 249.99,
+        "token": "bLUNA",
+        "timestamp": "2025-12-12T12:05:37.351+00:00",
+        "tx_hash": "784272DF48937CFA270506D1DDFF91FACBC8DB9C3EF92AF05E73631841E98470",
+        "buyer": "terra1kyz0efvxy2fx7alvzrt679uuemau62y2te5wuz",
+        "seller": "terra1vuzw2x6236vx9xnp6ya7m92zd3rt7fcjaugyk4"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "7607",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 249,
+        "token": "bLUNA",
+        "timestamp": "2025-12-12T12:04:24.203+00:00",
+        "tx_hash": "7D5F1C80A82B65762C2B22CB80BE3CC0BFF3CFB8ED2A39FA4FA8CC8DCE205E7C",
+        "buyer": "terra1kyz0efvxy2fx7alvzrt679uuemau62y2te5wuz",
+        "seller": "terra1clwaxwuj9htuwwwr8d3jf3whchdezcdn0s655v"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "8897",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 999,
+        "token": "bLUNA",
+        "timestamp": "2025-12-01T16:30:21.95+00:00",
+        "tx_hash": "48009FBEBC925794A2E810AF28DC54895BE01026EFBAE046DE5AFC1C2DF034A5",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra175qc8zprp4e0tn2d57rsajrw7pr52mvny6hld0"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "1891",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 200,
+        "token": "bLUNA",
+        "timestamp": "2025-12-01T16:29:28.787+00:00",
+        "tx_hash": "0E978E9AD4383C538F1F10F16274B9AAB98601BC4399ADC8F1CC7BC51DCBB5F4",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra19ujmpkuamfpsk3ujqrh09rzqegqn95fugu3yf8"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "6043",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 199,
+        "token": "bLUNA",
+        "timestamp": "2025-11-02T03:50:17.512+00:00",
+        "tx_hash": "0F7C4DD1B2680ED006EA8BBC02D0BF8BF461B02BA0CC0427E40D5BC6B2D6C472",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra1clwaxwuj9htuwwwr8d3jf3whchdezcdn0s655v"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "3290",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 190,
+        "token": "bLUNA",
+        "timestamp": "2025-10-14T15:14:20.008+00:00",
+        "tx_hash": "32C2B13E70E3B2909C999ADFE3B34E91FE85009A41FF81CEB1EB334470FCD468",
+        "buyer": "terra1vuzw2x6236vx9xnp6ya7m92zd3rt7fcjaugyk4",
+        "seller": "terra1clwaxwuj9htuwwwr8d3jf3whchdezcdn0s655v"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "1692",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 169,
+        "token": "bLUNA",
+        "timestamp": "2025-10-10T12:43:27.882+00:00",
+        "tx_hash": "00754C0F152F0E9BEA3543ACFBDB4A78D92B1DA1D5E427CFD90C66E13E88C510",
+        "buyer": "terra1fjd6thl0dqh6e5wv9z7rdrqzmtp0xau7fdejpq",
+        "seller": "terra1clwaxwuj9htuwwwr8d3jf3whchdezcdn0s655v"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "1554",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 159,
+        "token": "bLUNA",
+        "timestamp": "2025-10-10T12:37:11.787+00:00",
+        "tx_hash": "1039B2AB68D90678888F2BD026FDAA65B0E96021D0D7716A17309C759AFF68FF",
+        "buyer": "terra1fjd6thl0dqh6e5wv9z7rdrqzmtp0xau7fdejpq",
+        "seller": "terra1clwaxwuj9htuwwwr8d3jf3whchdezcdn0s655v"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "6333",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 155,
+        "token": "bLUNA",
+        "timestamp": "2025-10-10T12:37:00.167+00:00",
+        "tx_hash": "8A6CED5C9825A69F2DF1DAB4516E1D75FD0F43FF3B9604F34915D7936AD11C3D",
+        "buyer": "terra1fjd6thl0dqh6e5wv9z7rdrqzmtp0xau7fdejpq",
+        "seller": "terra1clwaxwuj9htuwwwr8d3jf3whchdezcdn0s655v"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "6069",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 139,
+        "token": "bLUNA",
+        "timestamp": "2025-10-10T12:36:11.72+00:00",
+        "tx_hash": "06370EB64C941D098CB32FB9D40FE4100714935EB9E0AF9AFA68E53FBB5B1333",
+        "buyer": "terra1fjd6thl0dqh6e5wv9z7rdrqzmtp0xau7fdejpq",
+        "seller": "terra1clwaxwuj9htuwwwr8d3jf3whchdezcdn0s655v"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "1511",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 125,
+        "token": "bLUNA",
+        "timestamp": "2025-10-09T15:05:16.231+00:00",
+        "tx_hash": "218C1355AFF82193A59067CAF63035B752EA55079024617D1BD07AB8E8BBD170",
+        "buyer": "terra1fjd6thl0dqh6e5wv9z7rdrqzmtp0xau7fdejpq",
+        "seller": "terra1clwaxwuj9htuwwwr8d3jf3whchdezcdn0s655v"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "2014",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 99,
+        "token": "bLUNA",
+        "timestamp": "2025-10-09T15:04:46.716+00:00",
+        "tx_hash": "AD1FA73A9967B17F361333A0EB34A20B603565DD8AF4C88F4F6C2D68483F76FD",
+        "buyer": "terra1fjd6thl0dqh6e5wv9z7rdrqzmtp0xau7fdejpq",
+        "seller": "terra1clwaxwuj9htuwwwr8d3jf3whchdezcdn0s655v"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "2113",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 87,
+        "token": "bLUNA",
+        "timestamp": "2025-10-09T00:45:34.615+00:00",
+        "tx_hash": "C7E5B9662981633B153791ECB59715FED7531F2A609E2CB9323FC4F941F580FF",
+        "buyer": "terra1fjd6thl0dqh6e5wv9z7rdrqzmtp0xau7fdejpq",
+        "seller": "terra10s2nj7d9dkqypschw9rrqddl4v5f7ywe8nrnvd"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "3629",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 269,
+        "token": "bLUNA",
+        "timestamp": "2025-09-28T09:10:26.812+00:00",
+        "tx_hash": "EB71C8AEF609D540971BE0C13E35635D1F962F3E696A308A82ACA52A92773D4A",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra175qc8zprp4e0tn2d57rsajrw7pr52mvny6hld0"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "7234",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 269,
+        "token": "bLUNA",
+        "timestamp": "2025-09-17T12:34:15.289+00:00",
+        "tx_hash": "379C2C5533FB99CF5D31C627496D89765E5F8AC823AAD605FEFEBB16C57D0650",
+        "buyer": "terra1xrz940kw377snj292z9sktqm5ex983v33h6j5s",
+        "seller": "terra175qc8zprp4e0tn2d57rsajrw7pr52mvny6hld0"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "2126",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 259,
+        "token": "bLUNA",
+        "timestamp": "2025-09-11T18:42:42.522+00:00",
+        "tx_hash": "B2835B35CB445535F09E65DBD74FABF5341BBAD794BB53865618DAA2B99A0C9B",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra175qc8zprp4e0tn2d57rsajrw7pr52mvny6hld0"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "1453",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 249,
+        "token": "bLUNA",
+        "timestamp": "2025-09-11T18:42:18.285+00:00",
+        "tx_hash": "F656478954378745F75E11AA10F1CB698DFEF70CF451C9CABD4E7C13A0FE83F1",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra175qc8zprp4e0tn2d57rsajrw7pr52mvny6hld0"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "3408",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 249,
+        "token": "bLUNA",
+        "timestamp": "2025-09-11T18:41:36.143+00:00",
+        "tx_hash": "1EC0AA3BAD26F1CD751BCCEE11FADA277CF834E27025384CE1E9D327920A7FA1",
+        "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+        "seller": "terra175qc8zprp4e0tn2d57rsajrw7pr52mvny6hld0"
+      }
+    ],
+    "boost": []
+  },
+  "year_totals": {
+    "bbl": {
+      "sales": 22,
+      "volume_bluna": 5908.99
+    },
+    "boost": {
+      "sales": 0,
+      "volume_usd": 0
+    }
+  },
+  "cumulative_totals": {
+    "through_year": 2026,
+    "bbl": {
+      "total_sales": 48,
+      "total_volume_bluna": 16696.8893
+    },
+    "boost": {
+      "total_sales": 0,
+      "total_volume_usd": 0
+    },
+    "combined_sales": 48
+  }
+}
