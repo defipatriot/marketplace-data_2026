@@ -1,11 +1,56 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-05-25T16:15:23.638Z",
+  "capturedAt": "2026-05-25T17:15:17.693Z",
   "counts": {
-    "sales": 0,
-    "listings": 0,
+    "sales": 1,
+    "listings": 1,
     "cancels": 0,
-    "total": 0
+    "total": 2
   },
-  "events": []
+  "events": [
+    {
+      "id": 34849,
+      "auction_id": 13638,
+      "nft_name": "AllianceDAO NFT #6067",
+      "nft_image_url": "ipfs://bafybeifavmf3smx5ken3tt4d6jw4iltec5mzbwdztv4owifk4jai2gm7c4/6067.png",
+      "collection_name": "AllianceDAO NFT",
+      "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+      "token_id": "6067",
+      "seller": "terra1v0k9r7csmknkcafvkem0kt4ul65qzpykjy9mpm",
+      "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+      "reserve_price": "15000000000",
+      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "final_price": "15000000000",
+      "chain_id": "phoenix-1",
+      "tx_hash": "FF9762039EA56A956904BD9ED0CCC75FDC7742E67041CB00EA091472861A7A6F",
+      "height": 21120792,
+      "timestamp": "2026-05-22T18:17:45.857+00:00",
+      "event_type": "settle",
+      "tx_explorer_url": "https://chainsco.pe/terra2/tx/FF9762039EA56A956904BD9ED0CCC75FDC7742E67041CB00EA091472861A7A6F",
+      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1v0k9r7csmknkcafvkem0kt4ul65qzpykjy9mpm",
+      "addr_explorer_url_buyer": "https://chainsco.pe/terra2/address/terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw"
+    },
+    {
+      "id": 46987,
+      "auction_id": 17729,
+      "nft_name": "pixeLion #674",
+      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/674.png",
+      "collection_name": "pixeLions",
+      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+      "token_id": "674",
+      "seller": "terra12826kkk0av98n8sxly079ht7aeh286s5f7h0q3",
+      "buyer": null,
+      "reserve_price": "420000000",
+      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "final_price": null,
+      "chain_id": "phoenix-1",
+      "tx_hash": "DB99151E40C24C6C1977C61145B2124121FA5E7EAEFC873F47367CFA9E45294F",
+      "height": 21091664,
+      "timestamp": "2026-05-20T19:31:06.473+00:00",
+      "event_type": "listed",
+      "tx_explorer_url": "https://chainsco.pe/terra2/tx/DB99151E40C24C6C1977C61145B2124121FA5E7EAEFC873F47367CFA9E45294F",
+      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra12826kkk0av98n8sxly079ht7aeh286s5f7h0q3",
+      "addr_explorer_url_buyer": null
+    }
+  ]
 }
