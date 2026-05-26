@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "cron": "marketplace-stats",
-  "capturedAt": "2026-05-26T10:15:13.451Z",
-  "capturedAtUnix": 1779790513451,
-  "runId": "mkt-20260526101513",
+  "capturedAt": "2026-05-26T11:15:10.156Z",
+  "capturedAtUnix": 1779794110156,
+  "runId": "mkt-20260526111510",
   "runMode": "hourly",
   "currentEpoch": 187,
-  "status": "ok",
+  "status": "partial",
   "stats": {
     "bbl_collections": 2,
     "boost_collections": 3,
@@ -14,7 +14,10 @@
     "sales_years_touched": 2,
     "cumulative_bbl_sales": 49,
     "cumulative_boost_sales": 0,
-    "errors": 0
+    "errors": 1
   },
-  "next_expected_run_at": "2026-05-26T11:15:13.451Z"
+  "errors": [
+    "bbl/alliance_dao stats: fetch failed"
+  ],
+  "next_expected_run_at": "2026-05-26T12:15:10.156Z"
 }
