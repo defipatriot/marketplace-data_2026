@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "cron": "marketplace-stats",
-  "capturedAt": "2026-05-29T18:15:20.243Z",
-  "capturedAtUnix": 1780078520243,
-  "runId": "mkt-20260529181520",
+  "capturedAt": "2026-05-29T19:15:20.180Z",
+  "capturedAtUnix": 1780082120180,
+  "runId": "mkt-20260529191520",
   "runMode": "hourly",
   "currentEpoch": 187,
   "status": "ok",
   "stats": {
     "bbl_collections": 2,
     "boost_collections": 3,
-    "activity_events_7d": 1,
+    "activity_events_7d": 0,
     "sales_years_touched": 2,
     "cumulative_bbl_sales": 49,
     "cumulative_boost_sales": 0,
     "errors": 0
   },
-  "next_expected_run_at": "2026-05-29T19:15:20.243Z"
+  "next_expected_run_at": "2026-05-29T20:15:20.180Z"
 }
