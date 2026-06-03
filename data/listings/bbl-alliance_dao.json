@@ -1,7 +1,7 @@
 {
-  "capturedAt": "2026-06-03T12:15:28.835Z",
+  "capturedAt": "2026-06-03T13:15:24.318Z",
   "contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
-  "listed_count": 23,
+  "listed_count": 24,
   "listings": [
     {
       "price_bluna": 1149.999,
@@ -25,7 +25,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra15rku203wqn9ru4p54k5p78j6tk6tmqkjwwpae4"
+      "seller": "terra1wpg32jhp3qnaguyayy6phxhz3kpv2c6reg9lta"
     },
     {
       "price_bluna": 1200,
@@ -33,7 +33,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra1wpg32jhp3qnaguyayy6phxhz3kpv2c6reg9lta"
+      "seller": "terra15rku203wqn9ru4p54k5p78j6tk6tmqkjwwpae4"
     },
     {
       "price_bluna": 1500,
@@ -130,6 +130,14 @@
       "image_url": null,
       "listed_at": null,
       "seller": "terra1wpg32jhp3qnaguyayy6phxhz3kpv2c6reg9lta"
+    },
+    {
+      "price_bluna": 4444,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra1zstf4e0au48fy56kkztsfea2m4fl4nd040etn8"
     },
     {
       "price_bluna": 5000,
