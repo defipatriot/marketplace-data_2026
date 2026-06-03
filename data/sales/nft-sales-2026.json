@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "year": 2026,
-    "generated_at": "2026-06-03T12:15:40.370Z",
+    "generated_at": "2026-06-03T13:15:35.958Z",
     "description": "aDAO NFT sales for 2026 (BBL + Boost)"
   },
   "sales": {
@@ -303,14 +303,47 @@
         "tx_hash": "FF9762039EA56A956904BD9ED0CCC75FDC7742E67041CB00EA091472861A7A6F",
         "buyer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
         "seller": "terra1v0k9r7csmknkcafvkem0kt4ul65qzpykjy9mpm"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "4390",
+        "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+        "amount": 88,
+        "token": "bLUNA",
+        "timestamp": "2026-05-30T09:27:11.423+00:00",
+        "tx_hash": "9804DB28FD628CF414EBD3C9BEB52D06C0B996D3B35F9044B757ACC622C69FEC",
+        "buyer": "terra1hl9vv22tp439q8c722hcmv2n8guxcnvsqv6y3f",
+        "seller": "terra1r26rfu5g66wsz8cfvn5xtxp22u2vgtelflz2lg"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "923",
+        "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+        "amount": 300,
+        "token": "bLUNA",
+        "timestamp": "2026-05-30T09:14:34.071+00:00",
+        "tx_hash": "6D8F3FF34D3F2B4BB32837A2AF49545B7F89B1E8E7F68581367CF2E9ADB87DE6",
+        "buyer": "terra1hl9vv22tp439q8c722hcmv2n8guxcnvsqv6y3f",
+        "seller": "terra1z2pwhnur2skh7s6th90y8hyzzt7anrqhpyxq5c"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "279",
+        "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+        "amount": 200,
+        "token": "bLUNA",
+        "timestamp": "2026-05-30T09:05:50.842+00:00",
+        "tx_hash": "536FD3CE087F26477C88265A18DD6F66B5F494327EFDBCB3ED4A9BE429699D46",
+        "buyer": "terra1hl9vv22tp439q8c722hcmv2n8guxcnvsqv6y3f",
+        "seller": "terra1sg09zu2xxp4sp0pg9qsfugjy4y060wvc7630ys"
       }
     ],
     "boost": []
   },
   "year_totals": {
     "bbl": {
-      "sales": 27,
-      "volume_bluna": 25787.899299999997
+      "sales": 30,
+      "volume_bluna": 26375.899299999997
     },
     "boost": {
       "sales": 0,
@@ -320,13 +353,13 @@
   "cumulative_totals": {
     "through_year": 2026,
     "bbl": {
-      "total_sales": 49,
-      "total_volume_bluna": 31696.889299999995
+      "total_sales": 52,
+      "total_volume_bluna": 32284.889299999995
     },
     "boost": {
       "total_sales": 0,
       "total_volume_usd": 0
     },
-    "combined_sales": 49
+    "combined_sales": 52
   }
 }
