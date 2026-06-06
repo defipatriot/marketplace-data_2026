@@ -1,15 +1,15 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-06-06T08:15:22.845Z",
+  "capturedAt": "2026-06-06T09:15:18.106Z",
   "counts": {
-    "sales": 3,
+    "sales": 1,
     "listings": 0,
     "cancels": 0,
-    "total": 3
+    "total": 1
   },
   "events": [
     {
-      "id": 34952,
+      "id": 34554,
       "auction_id": 14514,
       "nft_name": "pixeLion #4390",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/4390.png",
@@ -28,50 +28,6 @@
       "event_type": "settle",
       "tx_explorer_url": "https://chainsco.pe/terra2/tx/9804DB28FD628CF414EBD3C9BEB52D06C0B996D3B35F9044B757ACC622C69FEC",
       "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1r26rfu5g66wsz8cfvn5xtxp22u2vgtelflz2lg",
-      "addr_explorer_url_buyer": "https://chainsco.pe/terra2/address/terra1hl9vv22tp439q8c722hcmv2n8guxcnvsqv6y3f"
-    },
-    {
-      "id": 34953,
-      "auction_id": 15465,
-      "nft_name": "pixeLion #923",
-      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/923.png",
-      "collection_name": "pixeLions",
-      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
-      "token_id": "923",
-      "seller": "terra1z2pwhnur2skh7s6th90y8hyzzt7anrqhpyxq5c",
-      "buyer": "terra1hl9vv22tp439q8c722hcmv2n8guxcnvsqv6y3f",
-      "reserve_price": "300000000",
-      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-      "final_price": "300000000",
-      "chain_id": "phoenix-1",
-      "tx_hash": "6D8F3FF34D3F2B4BB32837A2AF49545B7F89B1E8E7F68581367CF2E9ADB87DE6",
-      "height": 21234540,
-      "timestamp": "2026-05-30T09:14:34.071+00:00",
-      "event_type": "settle",
-      "tx_explorer_url": "https://chainsco.pe/terra2/tx/6D8F3FF34D3F2B4BB32837A2AF49545B7F89B1E8E7F68581367CF2E9ADB87DE6",
-      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1z2pwhnur2skh7s6th90y8hyzzt7anrqhpyxq5c",
-      "addr_explorer_url_buyer": "https://chainsco.pe/terra2/address/terra1hl9vv22tp439q8c722hcmv2n8guxcnvsqv6y3f"
-    },
-    {
-      "id": 33416,
-      "auction_id": 17331,
-      "nft_name": "pixeLion #279",
-      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/279.png",
-      "collection_name": "pixeLions",
-      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
-      "token_id": "279",
-      "seller": "terra1sg09zu2xxp4sp0pg9qsfugjy4y060wvc7630ys",
-      "buyer": "terra1hl9vv22tp439q8c722hcmv2n8guxcnvsqv6y3f",
-      "reserve_price": "200000000",
-      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-      "final_price": "200000000",
-      "chain_id": "phoenix-1",
-      "tx_hash": "536FD3CE087F26477C88265A18DD6F66B5F494327EFDBCB3ED4A9BE429699D46",
-      "height": 21234450,
-      "timestamp": "2026-05-30T09:05:50.842+00:00",
-      "event_type": "settle",
-      "tx_explorer_url": "https://chainsco.pe/terra2/tx/536FD3CE087F26477C88265A18DD6F66B5F494327EFDBCB3ED4A9BE429699D46",
-      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1sg09zu2xxp4sp0pg9qsfugjy4y060wvc7630ys",
       "addr_explorer_url_buyer": "https://chainsco.pe/terra2/address/terra1hl9vv22tp439q8c722hcmv2n8guxcnvsqv6y3f"
     }
   ]
