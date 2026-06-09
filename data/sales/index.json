@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-06-09T13:15:18.936Z",
+  "capturedAt": "2026-06-09T14:15:24.494Z",
   "years": [
     "2025",
     "2026"
@@ -7,13 +7,13 @@
   "cumulative": {
     "through_year": 2026,
     "bbl": {
-      "total_sales": 52,
-      "total_volume_bluna": 32284.889299999995
+      "total_sales": 60,
+      "total_volume_bluna": 42869.8883
     },
     "boost": {
       "total_sales": 0,
       "total_volume_usd": 0
     },
-    "combined_sales": 52
+    "combined_sales": 60
   }
 }
