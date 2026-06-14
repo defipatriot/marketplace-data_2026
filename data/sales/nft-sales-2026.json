@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "year": 2026,
-    "generated_at": "2026-06-14T05:15:35.526Z",
+    "generated_at": "2026-06-14T06:15:28.706Z",
     "description": "aDAO NFT sales for 2026 (BBL + Boost)"
   },
   "sales": {
@@ -424,14 +424,25 @@
         "tx_hash": "D4BB2B70E90BEED3D196C9EF2C52CE318069B0874E7C302FF4555E9E321BA96D",
         "buyer": "terra1hl9vv22tp439q8c722hcmv2n8guxcnvsqv6y3f",
         "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
+      },
+      {
+        "marketplace": "bbl",
+        "nft_id": "8180",
+        "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+        "amount": 1150,
+        "token": "bLUNA",
+        "timestamp": "2026-06-12T02:43:20.739+00:00",
+        "tx_hash": "8A0242B9BF0783A99D07EAE163EF9143802345C8B1DB0A70E818181C24CE95EC",
+        "buyer": "terra1n28qcuxlm0t94dlky2zny0g7w8vrrklgef7229",
+        "seller": "terra1v0k9r7csmknkcafvkem0kt4ul65qzpykjy9mpm"
       }
     ],
     "boost": []
   },
   "year_totals": {
     "bbl": {
-      "sales": 38,
-      "volume_bluna": 36960.8983
+      "sales": 39,
+      "volume_bluna": 38110.8983
     },
     "boost": {
       "sales": 0,
@@ -441,13 +452,13 @@
   "cumulative_totals": {
     "through_year": 2026,
     "bbl": {
-      "total_sales": 60,
-      "total_volume_bluna": 42869.8883
+      "total_sales": 61,
+      "total_volume_bluna": 44019.8883
     },
     "boost": {
       "total_sales": 0,
       "total_volume_usd": 0
     },
-    "combined_sales": 60
+    "combined_sales": 61
   }
 }
