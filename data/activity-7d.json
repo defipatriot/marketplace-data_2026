@@ -1,6 +1,6 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-06-17T00:15:18.533Z",
+  "capturedAt": "2026-06-17T01:15:20.786Z",
   "counts": {
     "sales": 1,
     "listings": 5,
@@ -141,7 +141,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 22281,
+      "id": 22282,
       "auction_id": 17710,
       "nft_name": "AllianceDAO NFT #7178",
       "nft_image_url": "ipfs://bafybeidqzdhrfxd4gjhrjpyko3iivluu3qebullogkqxvv7oxuywv6bona/7178.png",
