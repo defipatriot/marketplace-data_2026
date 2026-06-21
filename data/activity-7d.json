@@ -1,78 +1,11 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-06-21T15:15:23.028Z",
+  "capturedAt": "2026-06-21T16:15:27.733Z",
   "counts": {
     "sales": 0,
-    "listings": 3,
+    "listings": 0,
     "cancels": 0,
-    "total": 3
+    "total": 0
   },
-  "events": [
-    {
-      "id": 47275,
-      "auction_id": 17768,
-      "nft_name": "AllianceDAO NFT #7964",
-      "nft_image_url": "ipfs://bafybeidqzdhrfxd4gjhrjpyko3iivluu3qebullogkqxvv7oxuywv6bona/7964.png",
-      "collection_name": "AllianceDAO NFT",
-      "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
-      "token_id": "7964",
-      "seller": "terra15rku203wqn9ru4p54k5p78j6tk6tmqkjwwpae4",
-      "buyer": null,
-      "reserve_price": "3200000000",
-      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-      "final_price": null,
-      "chain_id": "phoenix-1",
-      "tx_hash": "E0385ADE2F2D53C48B7DAA71613CF35A436DEAACE356CFBC36C1EB9786357EC6",
-      "height": 21461906,
-      "timestamp": "2026-06-14T15:39:56.559+00:00",
-      "event_type": "listed",
-      "tx_explorer_url": "https://chainsco.pe/terra2/tx/E0385ADE2F2D53C48B7DAA71613CF35A436DEAACE356CFBC36C1EB9786357EC6",
-      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra15rku203wqn9ru4p54k5p78j6tk6tmqkjwwpae4",
-      "addr_explorer_url_buyer": null
-    },
-    {
-      "id": 47210,
-      "auction_id": 17767,
-      "nft_name": "AllianceDAO NFT #7178",
-      "nft_image_url": "ipfs://bafybeidqzdhrfxd4gjhrjpyko3iivluu3qebullogkqxvv7oxuywv6bona/7178.png",
-      "collection_name": "AllianceDAO NFT",
-      "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
-      "token_id": "7178",
-      "seller": "terra15rku203wqn9ru4p54k5p78j6tk6tmqkjwwpae4",
-      "buyer": null,
-      "reserve_price": "2500000000",
-      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-      "final_price": null,
-      "chain_id": "phoenix-1",
-      "tx_hash": "C38AB29376667E446708AA9403A4F35745F7C2C20A0D72FF6EE9890B88520515",
-      "height": 21461899,
-      "timestamp": "2026-06-14T15:39:16.049+00:00",
-      "event_type": "listed",
-      "tx_explorer_url": "https://chainsco.pe/terra2/tx/C38AB29376667E446708AA9403A4F35745F7C2C20A0D72FF6EE9890B88520515",
-      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra15rku203wqn9ru4p54k5p78j6tk6tmqkjwwpae4",
-      "addr_explorer_url_buyer": null
-    },
-    {
-      "id": 47211,
-      "auction_id": 17766,
-      "nft_name": "AllianceDAO NFT #6270",
-      "nft_image_url": "ipfs://bafybeifavmf3smx5ken3tt4d6jw4iltec5mzbwdztv4owifk4jai2gm7c4/6270.png",
-      "collection_name": "AllianceDAO NFT",
-      "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
-      "token_id": "6270",
-      "seller": "terra15rku203wqn9ru4p54k5p78j6tk6tmqkjwwpae4",
-      "buyer": null,
-      "reserve_price": "3000000000",
-      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-      "final_price": null,
-      "chain_id": "phoenix-1",
-      "tx_hash": "9B38CF123EBBB34F09AC77E388C2552BBCC69FDC3E41221DEFBCB1C8D038EA8A",
-      "height": 21461889,
-      "timestamp": "2026-06-14T15:38:17.07+00:00",
-      "event_type": "listed",
-      "tx_explorer_url": "https://chainsco.pe/terra2/tx/9B38CF123EBBB34F09AC77E388C2552BBCC69FDC3E41221DEFBCB1C8D038EA8A",
-      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra15rku203wqn9ru4p54k5p78j6tk6tmqkjwwpae4",
-      "addr_explorer_url_buyer": null
-    }
-  ]
+  "events": []
 }
