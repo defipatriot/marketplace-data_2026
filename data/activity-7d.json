@@ -1,6 +1,6 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-06-24T13:15:20.100Z",
+  "capturedAt": "2026-06-24T14:15:22.038Z",
   "counts": {
     "sales": 0,
     "listings": 1,
@@ -9,7 +9,7 @@
   },
   "events": [
     {
-      "id": 35218,
+      "id": 34902,
       "auction_id": 17764,
       "nft_name": "AllianceDAO NFT #2096",
       "nft_image_url": "ipfs://bafybeibppqlke33x6rbspireih2my23o32koyzuwo6j62mh6ce3hfgj75u/2096.png",
@@ -31,7 +31,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 30272,
+      "id": 29973,
       "auction_id": 17765,
       "nft_name": "AllianceDAO NFT #3389",
       "nft_image_url": "ipfs://bafybeifgmla2spl46ccl6oau3a23a4wmibe6hkiuf46x4yczdgntrsmkzy/3389.png",
@@ -53,7 +53,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47726,
+      "id": 47721,
       "auction_id": 17792,
       "nft_name": "AllianceDAO NFT #3404",
       "nft_image_url": "ipfs://bafybeifgmla2spl46ccl6oau3a23a4wmibe6hkiuf46x4yczdgntrsmkzy/3404.png",
