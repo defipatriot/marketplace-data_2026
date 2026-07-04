@@ -1,15 +1,103 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-07-04T17:15:23.685Z",
+  "capturedAt": "2026-07-04T18:15:22.059Z",
   "counts": {
     "sales": 0,
-    "listings": 7,
+    "listings": 11,
     "cancels": 0,
-    "total": 7
+    "total": 11
   },
   "events": [
     {
-      "id": 45642,
+      "id": 47713,
+      "auction_id": 17817,
+      "nft_name": "pixeLion #1911",
+      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/1911.png",
+      "collection_name": "pixeLions",
+      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+      "token_id": "1911",
+      "seller": "terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "buyer": null,
+      "reserve_price": "75000000",
+      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "final_price": null,
+      "chain_id": "phoenix-1",
+      "tx_hash": "6C7AEF3DFA97F0E4FE68C898A73B96BC6EE4B5A3A63D247094DEEDFC58B853ED",
+      "height": 21761303,
+      "timestamp": "2026-07-04T17:50:15.712+00:00",
+      "event_type": "listed",
+      "tx_explorer_url": "https://chainsco.pe/terra2/tx/6C7AEF3DFA97F0E4FE68C898A73B96BC6EE4B5A3A63D247094DEEDFC58B853ED",
+      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "addr_explorer_url_buyer": null
+    },
+    {
+      "id": 47710,
+      "auction_id": 17816,
+      "nft_name": "pixeLion #74",
+      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/74.png",
+      "collection_name": "pixeLions",
+      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+      "token_id": "74",
+      "seller": "terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "buyer": null,
+      "reserve_price": "95000000",
+      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "final_price": null,
+      "chain_id": "phoenix-1",
+      "tx_hash": "5A73307379618FDF1E24A5E8BDA75F1C2431B6A2400C71E78BE6BCD48E7136A3",
+      "height": 21761297,
+      "timestamp": "2026-07-04T17:49:41.061+00:00",
+      "event_type": "listed",
+      "tx_explorer_url": "https://chainsco.pe/terra2/tx/5A73307379618FDF1E24A5E8BDA75F1C2431B6A2400C71E78BE6BCD48E7136A3",
+      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "addr_explorer_url_buyer": null
+    },
+    {
+      "id": 47731,
+      "auction_id": 17815,
+      "nft_name": "pixeLion #1886",
+      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/1886.png",
+      "collection_name": "pixeLions",
+      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+      "token_id": "1886",
+      "seller": "terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "buyer": null,
+      "reserve_price": "80000000",
+      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "final_price": null,
+      "chain_id": "phoenix-1",
+      "tx_hash": "3302C7249E78C61AA1D4B3DBB965B33B0E1C58B233BF9C1126603DBCBB7C02CB",
+      "height": 21761290,
+      "timestamp": "2026-07-04T17:49:02.04+00:00",
+      "event_type": "listed",
+      "tx_explorer_url": "https://chainsco.pe/terra2/tx/3302C7249E78C61AA1D4B3DBB965B33B0E1C58B233BF9C1126603DBCBB7C02CB",
+      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "addr_explorer_url_buyer": null
+    },
+    {
+      "id": 47732,
+      "auction_id": 17814,
+      "nft_name": "pixeLion #1849",
+      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/1849.png",
+      "collection_name": "pixeLions",
+      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+      "token_id": "1849",
+      "seller": "terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "buyer": null,
+      "reserve_price": "75000000",
+      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "final_price": null,
+      "chain_id": "phoenix-1",
+      "tx_hash": "F0C2CA6FB857E453C63A4F2C0D427C800C0D2FBC631E54C7ECF6CEEC5227F459",
+      "height": 21761283,
+      "timestamp": "2026-07-04T17:48:20.297+00:00",
+      "event_type": "listed",
+      "tx_explorer_url": "https://chainsco.pe/terra2/tx/F0C2CA6FB857E453C63A4F2C0D427C800C0D2FBC631E54C7ECF6CEEC5227F459",
+      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "addr_explorer_url_buyer": null
+    },
+    {
+      "id": 45619,
       "auction_id": 17806,
       "nft_name": "AllianceDAO NFT #8446",
       "nft_image_url": "ipfs://bafybeiebghaqdjxlnmelp6xjcfs7k2ppdvqxalaxi5yuatsdnqqnh72gze/8446.png",
@@ -31,7 +119,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47697,
+      "id": 47673,
       "auction_id": 17802,
       "nft_name": "AllianceDAO NFT #3162",
       "nft_image_url": "ipfs://bafybeifgmla2spl46ccl6oau3a23a4wmibe6hkiuf46x4yczdgntrsmkzy/3162.png",
@@ -53,7 +141,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47683,
+      "id": 47695,
       "auction_id": 17801,
       "nft_name": "AllianceDAO NFT #2282",
       "nft_image_url": "ipfs://bafybeiglkr3yf3tdwxb7bvq6vxsh47yxkiiemfv676kyobu2o4stkglecq/2282.png",
@@ -75,7 +163,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47684,
+      "id": 47696,
       "auction_id": 17800,
       "nft_name": "AllianceDAO NFT #7427",
       "nft_image_url": "ipfs://bafybeidqzdhrfxd4gjhrjpyko3iivluu3qebullogkqxvv7oxuywv6bona/7427.png",
@@ -97,7 +185,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47685,
+      "id": 47697,
       "auction_id": 17799,
       "nft_name": "AllianceDAO NFT #3389",
       "nft_image_url": "ipfs://bafybeifgmla2spl46ccl6oau3a23a4wmibe6hkiuf46x4yczdgntrsmkzy/3389.png",
@@ -119,7 +207,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47405,
+      "id": 47400,
       "auction_id": 17798,
       "nft_name": "AllianceDAO NFT #3008",
       "nft_image_url": "ipfs://bafybeifgmla2spl46ccl6oau3a23a4wmibe6hkiuf46x4yczdgntrsmkzy/3008.png",
@@ -141,7 +229,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47357,
+      "id": 47411,
       "auction_id": 17797,
       "nft_name": "AllianceDAO NFT #2096",
       "nft_image_url": "ipfs://bafybeibppqlke33x6rbspireih2my23o32koyzuwo6j62mh6ce3hfgj75u/2096.png",
