@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "year": 2026,
-    "generated_at": "2026-07-13T12:15:39.373Z",
+    "generated_at": "2026-07-13T13:15:40.166Z",
     "description": "aDAO NFT sales for 2026 (BBL + Boost)"
   },
   "sales": {
@@ -452,13 +452,13 @@
   "cumulative_totals": {
     "through_year": 2026,
     "bbl": {
-      "total_sales": 61,
-      "total_volume_bluna": 44019.8883
+      "total_sales": 39,
+      "total_volume_bluna": 38110.8983
     },
     "boost": {
       "total_sales": 0,
       "total_volume_usd": 0
     },
-    "combined_sales": 61
+    "combined_sales": 39
   }
 }
