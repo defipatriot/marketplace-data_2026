@@ -1,15 +1,37 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-07-14T19:15:24.123Z",
+  "capturedAt": "2026-07-14T20:15:37.134Z",
   "counts": {
     "sales": 0,
-    "listings": 5,
+    "listings": 6,
     "cancels": 0,
-    "total": 5
+    "total": 6
   },
   "events": [
     {
-      "id": 46245,
+      "id": 47358,
+      "auction_id": 17826,
+      "nft_name": "pixeLion #3858",
+      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/3858.png",
+      "collection_name": "pixeLions",
+      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+      "token_id": "3858",
+      "seller": "terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "buyer": null,
+      "reserve_price": "25000000",
+      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "final_price": null,
+      "chain_id": "phoenix-1",
+      "tx_hash": "E2A3C17E1A1779975B9581527778B81F3F93887F4819D700E5F0E708C83D6FC0",
+      "height": 21911128,
+      "timestamp": "2026-07-14T19:45:51.762+00:00",
+      "event_type": "listed",
+      "tx_explorer_url": "https://chainsco.pe/terra2/tx/E2A3C17E1A1779975B9581527778B81F3F93887F4819D700E5F0E708C83D6FC0",
+      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "addr_explorer_url_buyer": null
+    },
+    {
+      "id": 46198,
       "auction_id": 17824,
       "nft_name": "pixeLion #4634",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/4634.png",
@@ -31,7 +53,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 46246,
+      "id": 46199,
       "auction_id": 17823,
       "nft_name": "pixeLion #1602",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/1602.png",
@@ -53,7 +75,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 46191,
+      "id": 46154,
       "auction_id": 17822,
       "nft_name": "pixeLion #1507",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/1507.png",
@@ -75,7 +97,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 46210,
+      "id": 46188,
       "auction_id": 17821,
       "nft_name": "pixeLion #826",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/826.png",
@@ -97,7 +119,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47030,
+      "id": 47095,
       "auction_id": 17819,
       "nft_name": "pixeLion #4887",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/4887.png",
