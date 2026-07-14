@@ -1,15 +1,15 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-07-14T20:15:37.134Z",
+  "capturedAt": "2026-07-14T21:15:28.346Z",
   "counts": {
-    "sales": 0,
+    "sales": 1,
     "listings": 6,
     "cancels": 0,
-    "total": 6
+    "total": 7
   },
   "events": [
     {
-      "id": 47358,
+      "id": 23018,
       "auction_id": 17826,
       "nft_name": "pixeLion #3858",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/3858.png",
@@ -17,10 +17,32 @@
       "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
       "token_id": "3858",
       "seller": "terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
-      "buyer": null,
+      "buyer": "terra1aex4h5d2qrxg4f2jq9lsejhm9d0jeshnx40xt4",
       "reserve_price": "25000000",
       "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-      "final_price": null,
+      "final_price": "25000000",
+      "chain_id": "phoenix-1",
+      "tx_hash": "905548FF7AF99531503BA8C66AE277993178B7EF777FBD5821F77A5E540B4476",
+      "height": 21911472,
+      "timestamp": "2026-07-14T20:19:03.982+00:00",
+      "event_type": "settle",
+      "tx_explorer_url": "https://chainsco.pe/terra2/tx/905548FF7AF99531503BA8C66AE277993178B7EF777FBD5821F77A5E540B4476",
+      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "addr_explorer_url_buyer": "https://chainsco.pe/terra2/address/terra1aex4h5d2qrxg4f2jq9lsejhm9d0jeshnx40xt4"
+    },
+    {
+      "id": 47379,
+      "auction_id": 17826,
+      "nft_name": "pixeLion #3858",
+      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/3858.png",
+      "collection_name": "pixeLions",
+      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
+      "token_id": "3858",
+      "seller": "terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+      "buyer": "terra1aex4h5d2qrxg4f2jq9lsejhm9d0jeshnx40xt4",
+      "reserve_price": "25000000",
+      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "final_price": "25000000",
       "chain_id": "phoenix-1",
       "tx_hash": "E2A3C17E1A1779975B9581527778B81F3F93887F4819D700E5F0E708C83D6FC0",
       "height": 21911128,
@@ -28,10 +50,10 @@
       "event_type": "listed",
       "tx_explorer_url": "https://chainsco.pe/terra2/tx/E2A3C17E1A1779975B9581527778B81F3F93887F4819D700E5F0E708C83D6FC0",
       "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
-      "addr_explorer_url_buyer": null
+      "addr_explorer_url_buyer": "https://chainsco.pe/terra2/address/terra1aex4h5d2qrxg4f2jq9lsejhm9d0jeshnx40xt4"
     },
     {
-      "id": 46198,
+      "id": 46246,
       "auction_id": 17824,
       "nft_name": "pixeLion #4634",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/4634.png",
@@ -53,7 +75,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 46199,
+      "id": 46247,
       "auction_id": 17823,
       "nft_name": "pixeLion #1602",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/1602.png",
@@ -75,7 +97,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 46154,
+      "id": 46192,
       "auction_id": 17822,
       "nft_name": "pixeLion #1507",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/1507.png",
@@ -97,7 +119,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 46188,
+      "id": 46211,
       "auction_id": 17821,
       "nft_name": "pixeLion #826",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/826.png",
@@ -119,7 +141,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47095,
+      "id": 47031,
       "auction_id": 17819,
       "nft_name": "pixeLion #4887",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/4887.png",
