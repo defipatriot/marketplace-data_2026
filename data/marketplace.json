@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-14T20:15:37.134Z",
-  "capturedAtUnix": 1784060137134,
+  "capturedAt": "2026-07-14T21:15:28.346Z",
+  "capturedAtUnix": 1784063728346,
   "epoch": 194,
   "prices_used": {
-    "LUNA": 0.04755308,
-    "bLUNA": 0.08416317648218517,
-    "ampLUNA": 0.1053555939795464,
-    "arbLUNA": 0.1419407369732082
+    "LUNA": 0.04752343,
+    "bLUNA": 0.08411069958305546,
+    "ampLUNA": 0.10528990331636552,
+    "arbLUNA": 0.14185223496973637
   },
   "bbl": {
     "alliance_dao": {
@@ -20,19 +20,19 @@
       "broken_listed": 0,
       "unbroken_listed": 42,
       "volume_bluna": 256904.7833,
-      "floor_usd": 84.16317648218518,
-      "volume_usd": 21621.922615995438,
+      "floor_usd": 84.11069958305546,
+      "volume_usd": 21608.441049596266,
       "error": null
     },
     "pixelions": {
       "contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
       "label": "pixeLions",
-      "floor_bluna": 25,
-      "floor_from_listings": 25,
-      "listed_count": 79,
-      "volume_bluna": 204831.18403,
-      "floor_usd": 2.104079412054629,
-      "volume_usd": 17239.24309057184,
+      "floor_bluna": 69,
+      "floor_from_listings": 69,
+      "listed_count": 78,
+      "volume_bluna": 204856.18403,
+      "floor_usd": 5.8036382712308265,
+      "volume_usd": 17230.596952678454,
       "error": null
     }
   },
@@ -50,12 +50,12 @@
             50000000000
           ],
           "usds": [
-            104.515554,
-            237.53535,
-            2375.3535
+            104.543142,
+            237.59805,
+            2375.9805
           ],
           "floor": 2200000000,
-          "floor_usd": 104.515554
+          "floor_usd": 104.543142
         },
         "ampLUNA": {
           "token": "ampLUNA",
@@ -63,10 +63,10 @@
             3000000000
           ],
           "usds": [
-            315.6920098440685
+            315.7753401316119
           ],
           "floor": 3000000000,
-          "floor_usd": 315.6920098440685
+          "floor_usd": 315.7753401316119
         }
       },
       "error": null
@@ -87,15 +87,15 @@
             1000000000
           ],
           "usds": [
-            199.9706,
-            199.9706,
-            419.93826,
-            499.9265,
-            999.853,
-            999.853
+            199.9826,
+            199.9826,
+            419.96346,
+            499.9565,
+            999.913,
+            999.913
           ],
           "floor": 200000000,
-          "floor_usd": 199.9706
+          "floor_usd": 199.9826
         }
       },
       "error": null
@@ -111,13 +111,13 @@
   "cumulative": {
     "through_year": 2026,
     "bbl": {
-      "total_sales": 39,
-      "total_volume_bluna": 38110.8983
+      "total_sales": 40,
+      "total_volume_bluna": 38135.8983
     },
     "boost": {
       "total_sales": 0,
       "total_volume_usd": 0
     },
-    "combined_sales": 39
+    "combined_sales": 40
   }
 }
