@@ -1,32 +1,8 @@
 {
-  "capturedAt": "2026-07-19T11:15:18.564Z",
+  "capturedAt": "2026-07-19T12:15:50.166Z",
   "contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
-  "listed_count": 85,
+  "listed_count": 82,
   "listings": [
-    {
-      "price_bluna": 40,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra1mw650edddjqsz7mwmga0qm688j0wx9mdmu4n0w"
-    },
-    {
-      "price_bluna": 40,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra1mw650edddjqsz7mwmga0qm688j0wx9mdmu4n0w"
-    },
-    {
-      "price_bluna": 40,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra1mw650edddjqsz7mwmga0qm688j0wx9mdmu4n0w"
-    },
     {
       "price_bluna": 40,
       "broken": false,
@@ -153,7 +129,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra1cwz3ny7mlgpjnq6hjaetuxjqw2yl98vkjw8yye"
+      "seller": "terra1shytjqcnjgv45gsgwk4fa463vlrv9wvmj5k7qq"
     },
     {
       "price_bluna": 80,
@@ -161,7 +137,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra1shytjqcnjgv45gsgwk4fa463vlrv9wvmj5k7qq"
+      "seller": "terra1cwz3ny7mlgpjnq6hjaetuxjqw2yl98vkjw8yye"
     },
     {
       "price_bluna": 80,
@@ -241,7 +217,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra174jqm68e3mp28gwcqxu5q4vvdyjujefl7pxf8d"
+      "seller": "terra18cqee39gu7mwvxuu9e7rsny4lym5c7hq83fcaq"
     },
     {
       "price_bluna": 99,
@@ -249,7 +225,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra18cqee39gu7mwvxuu9e7rsny4lym5c7hq83fcaq"
+      "seller": "terra174jqm68e3mp28gwcqxu5q4vvdyjujefl7pxf8d"
     },
     {
       "price_bluna": 100,
@@ -265,7 +241,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra18xcgu99lx69g2ampnldfh4u50qvw8c0naukg7p"
+      "seller": "terra18cqee39gu7mwvxuu9e7rsny4lym5c7hq83fcaq"
     },
     {
       "price_bluna": 100,
@@ -274,6 +250,22 @@
       "image_url": null,
       "listed_at": null,
       "seller": "terra18cqee39gu7mwvxuu9e7rsny4lym5c7hq83fcaq"
+    },
+    {
+      "price_bluna": 100,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra1shytjqcnjgv45gsgwk4fa463vlrv9wvmj5k7qq"
+    },
+    {
+      "price_bluna": 100,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra18xcgu99lx69g2ampnldfh4u50qvw8c0naukg7p"
     },
     {
       "price_bluna": 100,
@@ -289,23 +281,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra18cqee39gu7mwvxuu9e7rsny4lym5c7hq83fcaq"
-    },
-    {
-      "price_bluna": 100,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
       "seller": "terra18xcgu99lx69g2ampnldfh4u50qvw8c0naukg7p"
-    },
-    {
-      "price_bluna": 100,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra1shytjqcnjgv45gsgwk4fa463vlrv9wvmj5k7qq"
     },
     {
       "price_bluna": 107,
@@ -330,6 +306,54 @@
       "image_url": null,
       "listed_at": null,
       "seller": "terra1jgk8dhtv0qf5s08jxrwecf4a04hdmeznqpty75"
+    },
+    {
+      "price_bluna": 110,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
+    },
+    {
+      "price_bluna": 110,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
+    },
+    {
+      "price_bluna": 110,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
+    },
+    {
+      "price_bluna": 110,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
+    },
+    {
+      "price_bluna": 110,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
+    },
+    {
+      "price_bluna": 110,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
     },
     {
       "price_bluna": 110,
@@ -388,54 +412,6 @@
       "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
     },
     {
-      "price_bluna": 110,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
-    },
-    {
-      "price_bluna": 110,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
-    },
-    {
-      "price_bluna": 110,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
-    },
-    {
-      "price_bluna": 110,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
-    },
-    {
-      "price_bluna": 110,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
-    },
-    {
-      "price_bluna": 110,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra16pcv5qmdg6ym2ce0xz93gfeyn9enmyt66xcc8m"
-    },
-    {
       "price_bluna": 125,
       "broken": false,
       "name": null,
@@ -449,7 +425,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra1x2rutlpugtxllqkn7ehxcu77r8qeydp26rerzn"
+      "seller": "terra1z2pwhnur2skh7s6th90y8hyzzt7anrqhpyxq5c"
     },
     {
       "price_bluna": 150,
@@ -457,7 +433,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra1z2pwhnur2skh7s6th90y8hyzzt7anrqhpyxq5c"
+      "seller": "terra1x2rutlpugtxllqkn7ehxcu77r8qeydp26rerzn"
     },
     {
       "price_bluna": 188,
@@ -473,38 +449,6 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra1e3tzzc6hu4l6a73lkm2430ssumyjvw677f6j46"
-    },
-    {
-      "price_bluna": 200,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra1shytjqcnjgv45gsgwk4fa463vlrv9wvmj5k7qq"
-    },
-    {
-      "price_bluna": 200,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra1e3tzzc6hu4l6a73lkm2430ssumyjvw677f6j46"
-    },
-    {
-      "price_bluna": 200,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
-      "seller": "terra1shytjqcnjgv45gsgwk4fa463vlrv9wvmj5k7qq"
-    },
-    {
-      "price_bluna": 200,
-      "broken": false,
-      "name": null,
-      "image_url": null,
-      "listed_at": null,
       "seller": "terra1tdhw0ty62253ayu0wwf8ckx3dm9sq37hfk43sl"
     },
     {
@@ -513,7 +457,7 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra174jqm68e3mp28gwcqxu5q4vvdyjujefl7pxf8d"
+      "seller": "terra186mfgpxxqlum7ry9afus476pk4nkvrg8r336rn"
     },
     {
       "price_bluna": 200,
@@ -521,7 +465,39 @@
       "name": null,
       "image_url": null,
       "listed_at": null,
-      "seller": "terra186mfgpxxqlum7ry9afus476pk4nkvrg8r336rn"
+      "seller": "terra1e3tzzc6hu4l6a73lkm2430ssumyjvw677f6j46"
+    },
+    {
+      "price_bluna": 200,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra1shytjqcnjgv45gsgwk4fa463vlrv9wvmj5k7qq"
+    },
+    {
+      "price_bluna": 200,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra1e3tzzc6hu4l6a73lkm2430ssumyjvw677f6j46"
+    },
+    {
+      "price_bluna": 200,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra1shytjqcnjgv45gsgwk4fa463vlrv9wvmj5k7qq"
+    },
+    {
+      "price_bluna": 200,
+      "broken": false,
+      "name": null,
+      "image_url": null,
+      "listed_at": null,
+      "seller": "terra174jqm68e3mp28gwcqxu5q4vvdyjujefl7pxf8d"
     },
     {
       "price_bluna": 200,
