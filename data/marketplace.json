@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-20T02:15:27.789Z",
-  "capturedAtUnix": 1784513727789,
+  "capturedAt": "2026-07-20T03:15:28.740Z",
+  "capturedAtUnix": 1784517328740,
   "epoch": 195,
   "prices_used": {
-    "LUNA": 0.04596617,
-    "bLUNA": 0.08135453850574142,
-    "ampLUNA": 0.10220825021944044,
-    "arbLUNA": 0.13727658377266808
+    "LUNA": 0.04568854,
+    "bLUNA": 0.08086316712271453,
+    "ampLUNA": 0.10159092498854948,
+    "arbLUNA": 0.13644745013040888
   },
   "bbl": {
     "alliance_dao": {
@@ -16,12 +16,12 @@
       "floor_bluna": 1000,
       "floor_from_listings": 1000,
       "unbroken_floor_bluna": 1000,
-      "listed_count": 42,
+      "listed_count": 43,
       "broken_listed": 0,
-      "unbroken_listed": 42,
+      "unbroken_listed": 43,
       "volume_bluna": 256904.7833,
-      "floor_usd": 81.35453850574143,
-      "volume_usd": 20900.370085289007,
+      "floor_usd": 80.86316712271453,
+      "volume_usd": 20774.13442661266,
       "error": null
     },
     "pixelions": {
@@ -31,8 +31,8 @@
       "floor_from_listings": 40,
       "listed_count": 82,
       "volume_bluna": 204976.18403,
-      "floor_usd": 3.254181540229657,
-      "volume_usd": 16675.742856428576,
+      "floor_usd": 3.234526684908581,
+      "volume_usd": 16575.02342539418,
       "error": null
     }
   },
@@ -50,12 +50,12 @@
             50000000000
           ],
           "usds": [
-            100.682714,
-            228.82435,
-            2288.2435
+            100.777446,
+            229.03965,
+            2290.3965
           ],
           "floor": 2200000000,
-          "floor_usd": 100.682714
+          "floor_usd": 100.777446
         },
         "ampLUNA": {
           "token": "ampLUNA",
@@ -63,10 +63,10 @@
             3000000000
           ],
           "usds": [
-            305.28194654175
+            305.5691852167006
           ],
           "floor": 3000000000,
-          "floor_usd": 305.28194654175
+          "floor_usd": 305.5691852167006
         }
       },
       "error": null
@@ -87,15 +87,15 @@
             1000000000
           ],
           "usds": [
-            199.9624,
-            199.9624,
-            419.92104,
-            499.906,
-            999.812,
-            999.812
+            199.971,
+            199.971,
+            419.9391,
+            499.9275,
+            999.855,
+            999.855
           ],
           "floor": 200000000,
-          "floor_usd": 199.9624
+          "floor_usd": 199.971
         }
       },
       "error": null
