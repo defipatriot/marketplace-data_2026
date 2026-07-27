@@ -1,6 +1,6 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-07-27T22:15:35.666Z",
+  "capturedAt": "2026-07-27T23:15:29.652Z",
   "counts": {
     "sales": 1,
     "listings": 0,
@@ -9,7 +9,7 @@
   },
   "events": [
     {
-      "id": 35543,
+      "id": 23256,
       "auction_id": 17686,
       "nft_name": "pixeLion #4496",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/4496.png",
@@ -31,7 +31,7 @@
       "addr_explorer_url_buyer": "https://chainsco.pe/terra2/address/terra1pnnk4mhstjje4qryxd4glkrvya42vjzphf0dd3"
     },
     {
-      "id": 35234,
+      "id": 23062,
       "auction_id": 17382,
       "nft_name": "pixeLion #4712",
       "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/4712.png",
