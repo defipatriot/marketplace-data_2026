@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-29T08:15:17.025Z",
-  "capturedAtUnix": 1785312917025,
+  "capturedAt": "2026-07-29T09:15:47.673Z",
+  "capturedAtUnix": 1785316547673,
   "epoch": 196,
   "prices_used": {
-    "LUNA": 0.04038306,
-    "bLUNA": 0.07147209934020837,
-    "ampLUNA": 0.09043943840727821,
-    "arbLUNA": 0.12068999395119438
+    "LUNA": 0.04023625,
+    "bLUNA": 0.07121226715056907,
+    "ampLUNA": 0.09015492574174816,
+    "arbLUNA": 0.12025259809804933
   },
   "bbl": {
     "alliance_dao": {
@@ -20,8 +20,8 @@
       "broken_listed": 0,
       "unbroken_listed": 43,
       "volume_bluna": 256904.7833,
-      "floor_usd": 71.47209934020837,
-      "volume_usd": 18361.524192992307,
+      "floor_usd": 71.21226715056906,
+      "volume_usd": 18294.772060618656,
       "error": null
     },
     "pixelions": {
@@ -31,8 +31,8 @@
       "floor_from_listings": 40,
       "listed_count": 80,
       "volume_bluna": 205076.18403,
-      "floor_usd": 2.858883973608335,
-      "volume_usd": 14657.225397303015,
+      "floor_usd": 2.8484906860227626,
+      "volume_usd": 14603.940003363627,
       "error": null
     }
   },
