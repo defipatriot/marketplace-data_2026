@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-30T10:15:27.745Z",
-  "capturedAtUnix": 1785406527745,
+  "capturedAt": "2026-07-30T11:15:27.774Z",
+  "capturedAtUnix": 1785410127774,
   "epoch": 196,
   "prices_used": {
-    "LUNA": 0.04192146,
-    "bLUNA": 0.07419484193639055,
-    "ampLUNA": 0.09400393168764394,
-    "arbLUNA": 0.12537737376076785
+    "LUNA": 0.04139797,
+    "bLUNA": 0.07326834133728734,
+    "ampLUNA": 0.09283006707989495,
+    "arbLUNA": 0.12381173646213972
   },
   "bbl": {
     "alliance_dao": {
@@ -20,8 +20,8 @@
       "broken_listed": 0,
       "unbroken_listed": 43,
       "volume_bluna": 256904.7833,
-      "floor_usd": 74.19484193639055,
-      "volume_usd": 19061.009789646167,
+      "floor_usd": 73.26834133728734,
+      "volume_usd": 18822.987354006236,
       "error": null
     },
     "pixelions": {
@@ -31,8 +31,8 @@
       "floor_from_listings": 40,
       "listed_count": 80,
       "volume_bluna": 205076.18403,
-      "floor_usd": 2.9677936774556217,
-      "volume_usd": 15215.59505902399,
+      "floor_usd": 2.9307336534914934,
+      "volume_usd": 15025.591851658395,
       "error": null
     }
   },
@@ -40,72 +40,20 @@
     "alliance_dao": {
       "contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
       "label": "Alliance DAO",
-      "listed_count": 4,
-      "floor_by_token": {
-        "LUNA": {
-          "token": "LUNA",
-          "prices": [
-            2200000000,
-            5000000000,
-            50000000000
-          ],
-          "usds": [
-            99.550748,
-            226.2517,
-            2262.517
-          ],
-          "floor": 2200000000,
-          "floor_usd": 99.550748
-        },
-        "ampLUNA": {
-          "token": "ampLUNA",
-          "prices": [
-            3000000000
-          ],
-          "usds": [
-            302.6511848568884
-          ],
-          "floor": 3000000000,
-          "floor_usd": 302.6511848568884
-        }
-      },
-      "error": null
+      "listed_count": null,
+      "error": "HTTP 502 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-"
     },
     "pixelions": {
       "contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
       "label": "pixeLions",
-      "listed_count": 6,
-      "floor_by_token": {
-        "ibc/2C962DAB…": {
-          "token": "ibc/2C962DAB…",
-          "prices": [
-            200000000,
-            200000000,
-            420000000,
-            500000000,
-            1000000000,
-            1000000000
-          ],
-          "usds": [
-            199.9596,
-            199.9596,
-            419.91516,
-            499.899,
-            999.798,
-            999.798
-          ],
-          "floor": 200000000,
-          "floor_usd": 199.9596
-        }
-      },
-      "error": null
+      "listed_count": null,
+      "error": "HTTP 502 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-"
     },
     "tla_locks": {
       "contract": "terra1uqhj8agyeaz8fu6mdggfuwr3lp32jlrx5hqag4jxexde92rzkamq3l62zg",
       "label": "TLA Locks",
-      "listed_count": 0,
-      "floor_by_token": {},
-      "error": null
+      "listed_count": null,
+      "error": "HTTP 502 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-"
     }
   },
   "cumulative": {
