@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "cron": "marketplace-stats",
-  "capturedAt": "2026-07-30T10:15:27.745Z",
-  "capturedAtUnix": 1785406527745,
-  "runId": "mkt-20260730101527",
+  "capturedAt": "2026-07-30T11:15:27.774Z",
+  "capturedAtUnix": 1785410127774,
+  "runId": "mkt-20260730111527",
   "runMode": "hourly",
   "currentEpoch": 196,
-  "status": "ok",
+  "status": "partial",
   "stats": {
     "bbl_collections": 2,
     "boost_collections": 3,
@@ -14,7 +14,12 @@
     "sales_years_touched": 1,
     "cumulative_bbl_sales": 44,
     "cumulative_boost_sales": 0,
-    "errors": 0
+    "errors": 3
   },
-  "next_expected_run_at": "2026-07-30T11:15:27.745Z"
+  "errors": [
+    "boost/alliance_dao listings: HTTP 502 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-",
+    "boost/pixelions listings: HTTP 502 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-",
+    "boost/tla_locks listings: HTTP 502 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-"
+  ],
+  "next_expected_run_at": "2026-07-30T12:15:27.774Z"
 }
