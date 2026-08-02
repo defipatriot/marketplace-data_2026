@@ -1,15 +1,15 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-08-02T17:15:30.023Z",
+  "capturedAt": "2026-08-02T18:15:33.237Z",
   "counts": {
-    "sales": 1,
+    "sales": 0,
     "listings": 1,
     "cancels": 2,
-    "total": 4
+    "total": 3
   },
   "events": [
     {
-      "id": 23354,
+      "id": 36039,
       "auction_id": 17851,
       "nft_name": "AllianceDAO NFT #1034",
       "nft_image_url": "ipfs://QmT5YokvzaYbjAVfig1pCrXiZT3njB4Wy78cZa6GoADSsk/1034.png",
@@ -31,7 +31,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47784,
+      "id": 47733,
       "auction_id": 17851,
       "nft_name": "AllianceDAO NFT #1034",
       "nft_image_url": "ipfs://QmT5YokvzaYbjAVfig1pCrXiZT3njB4Wy78cZa6GoADSsk/1034.png",
@@ -53,7 +53,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 22066,
+      "id": 33948,
       "auction_id": 17835,
       "nft_name": "AllianceDAO NFT #1034",
       "nft_image_url": "ipfs://QmT5YokvzaYbjAVfig1pCrXiZT3njB4Wy78cZa6GoADSsk/1034.png",
@@ -73,28 +73,6 @@
       "tx_explorer_url": "https://chainsco.pe/terra2/tx/4D59E57DB90F9A1DB611EA75DB129DD57310DB664A08DA4A46E6D40027CE883E",
       "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1u5mrfn4kjk0kaa26p6a8vu8kdra8phucdxamdg",
       "addr_explorer_url_buyer": null
-    },
-    {
-      "id": 23257,
-      "auction_id": 17686,
-      "nft_name": "pixeLion #4496",
-      "nft_image_url": "ipfs://bafybeihgrne4vcqirlb26rs4y2gpaka32dqssidwvx2qui2kx5osc6oxie/4496.png",
-      "collection_name": "pixeLions",
-      "nft_contract": "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g",
-      "token_id": "4496",
-      "seller": "terra14dhzxgzynx6lgjw23f4g6j4m3e2z6rgqwg99wz",
-      "buyer": "terra1pnnk4mhstjje4qryxd4glkrvya42vjzphf0dd3",
-      "reserve_price": "100000000",
-      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-      "final_price": "100000000",
-      "chain_id": "phoenix-1",
-      "tx_hash": "F83273FB9E7E78F671719581627067992F8BA49EF5665A6C1AC0D03E00ADDB77",
-      "height": 22087635,
-      "timestamp": "2026-07-26T18:03:35.553+00:00",
-      "event_type": "settle",
-      "tx_explorer_url": "https://chainsco.pe/terra2/tx/F83273FB9E7E78F671719581627067992F8BA49EF5665A6C1AC0D03E00ADDB77",
-      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra14dhzxgzynx6lgjw23f4g6j4m3e2z6rgqwg99wz",
-      "addr_explorer_url_buyer": "https://chainsco.pe/terra2/address/terra1pnnk4mhstjje4qryxd4glkrvya42vjzphf0dd3"
     }
   ]
 }
