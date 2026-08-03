@@ -1,15 +1,37 @@
 {
   "window_days": 7,
-  "capturedAt": "2026-08-03T16:15:36.392Z",
+  "capturedAt": "2026-08-03T17:15:38.657Z",
   "counts": {
     "sales": 0,
-    "listings": 1,
+    "listings": 2,
     "cancels": 2,
-    "total": 3
+    "total": 4
   },
   "events": [
     {
-      "id": 35583,
+      "id": 47673,
+      "auction_id": 17852,
+      "nft_name": "AllianceDAO NFT #1034",
+      "nft_image_url": "ipfs://QmT5YokvzaYbjAVfig1pCrXiZT3njB4Wy78cZa6GoADSsk/1034.png",
+      "collection_name": "AllianceDAO NFT",
+      "nft_contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+      "token_id": "1034",
+      "seller": "terra1u5mrfn4kjk0kaa26p6a8vu8kdra8phucdxamdg",
+      "buyer": null,
+      "reserve_price": "1000000000",
+      "reserve_price_denom": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "final_price": null,
+      "chain_id": "phoenix-1",
+      "tx_hash": "DB506A9C72A0CF1B135F1A2F90D3B5EA5C4E636765733A491D6C799E98BF5545",
+      "height": 22206567,
+      "timestamp": "2026-08-03T16:31:04.935+00:00",
+      "event_type": "listed",
+      "tx_explorer_url": "https://chainsco.pe/terra2/tx/DB506A9C72A0CF1B135F1A2F90D3B5EA5C4E636765733A491D6C799E98BF5545",
+      "addr_explorer_url_seller": "https://chainsco.pe/terra2/address/terra1u5mrfn4kjk0kaa26p6a8vu8kdra8phucdxamdg",
+      "addr_explorer_url_buyer": null
+    },
+    {
+      "id": 35692,
       "auction_id": 17851,
       "nft_name": "AllianceDAO NFT #1034",
       "nft_image_url": "ipfs://QmT5YokvzaYbjAVfig1pCrXiZT3njB4Wy78cZa6GoADSsk/1034.png",
@@ -31,7 +53,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 47765,
+      "id": 47805,
       "auction_id": 17851,
       "nft_name": "AllianceDAO NFT #1034",
       "nft_image_url": "ipfs://QmT5YokvzaYbjAVfig1pCrXiZT3njB4Wy78cZa6GoADSsk/1034.png",
@@ -53,7 +75,7 @@
       "addr_explorer_url_buyer": null
     },
     {
-      "id": 33565,
+      "id": 33672,
       "auction_id": 17835,
       "nft_name": "AllianceDAO NFT #1034",
       "nft_image_url": "ipfs://QmT5YokvzaYbjAVfig1pCrXiZT3njB4Wy78cZa6GoADSsk/1034.png",
