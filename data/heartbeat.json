@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "cron": "marketplace-stats",
-  "capturedAt": "2026-08-07T04:16:03.751Z",
-  "capturedAtUnix": 1786076163751,
-  "runId": "mkt-20260807041603",
+  "capturedAt": "2026-08-07T05:15:39.638Z",
+  "capturedAtUnix": 1786079739638,
+  "runId": "mkt-20260807051539",
   "runMode": "hourly",
   "currentEpoch": 197,
   "status": "ok",
@@ -16,5 +16,5 @@
     "cumulative_boost_sales": 0,
     "errors": 0
   },
-  "next_expected_run_at": "2026-08-07T05:16:03.751Z"
+  "next_expected_run_at": "2026-08-07T06:15:39.638Z"
 }
